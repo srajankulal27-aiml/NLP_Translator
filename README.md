@@ -1,7 +1,5 @@
 # 🌍 AI Multi-Language Translator
 
-![Translator Screenshot](screenshots/Translator.png)
-
 ## 📖 Overview
 
 The **AI Multi-Language Translator** is a web-based application developed using **Python** and **Streamlit** that enables users to translate text between multiple languages instantly. The application provides a clean, interactive, and user-friendly interface, making language translation simple and efficient.
