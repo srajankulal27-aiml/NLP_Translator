@@ -1,6 +1,6 @@
 # 🌍 AI Multi-Language Translator
 
-![Translator UI](assets/screenshots/Translator.png)
+![Translator Screenshot](screenshots/Translator.png)
 
 ## 📖 Overview
 
