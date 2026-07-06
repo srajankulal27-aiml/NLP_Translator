@@ -27,7 +27,7 @@ This project demonstrates the integration of AI-powered language translation API
 
 ### Home Page
 
-![Translator Screenshot](assets/screenshots/Translator.png)
+![Translator Screenshot](screenshots/Translator.png)
 
 ---
 
